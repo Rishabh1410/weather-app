@@ -1,0 +1,4 @@
+#Mon Mar 15 07:13:30 IST 2021
+base.0=/Users/rishabhverma_123/Desktop/appD/weather_app/flutter_weather_app/build/app/intermediates/dex/profile/mergeDexProfile/out/classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
